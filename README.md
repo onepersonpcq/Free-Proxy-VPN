@@ -45,6 +45,11 @@
 
 主观评价：凭注册码，每月100G的流量套餐，可在官网内领取。
 
+测速与解锁情况：
+![MiaoKo-592-FreeCloud-speed](https://github.com/user-attachments/assets/70ee3fba-0a5c-4941-ac4d-a2941e66c681)
+![MiaoKo-Free白嫖套餐-test](https://github.com/user-attachments/assets/5d27301e-7326-49fd-9960-c47658921b69)
+
+
 ---
 # 付费机场推荐
 
