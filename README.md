@@ -1,5 +1,7 @@
 # 免费机场分享
 
+如果本项目对您有所帮助，请给我关注吧 [Star](https://github.com/KaWaIDeSuNe/xingjiabijichang)，您的支持是我更新的动力！
+
 ![](https://komarev.com/ghpvc/?username=Free-Proxy-VPN)
 ---
 
