@@ -3,6 +3,14 @@
 如果本项目对您有所帮助，请给我关注吧 [Star](https://github.com/Anime2375/Free-Proxy-VPN)，您的支持是我更新的动力！
 
 ![](https://komarev.com/ghpvc/?username=Free-Proxy-VPN)
+
+---
+
+### 〇、自购订阅（NanoCloud）
+
+<https://edu.alicdn.men/iv/verify_mode.htm?token=1c24163ec4b86c3dcb50cce4d9b2725e>
+
+主观评价：年付订阅，每月651G。
 ---
 
 ### 一、廉价机场
