@@ -8,7 +8,7 @@
 
 ### 〇、自购订阅（NanoCloud）
 
-<https://edu.alicdn.men/iv/verify_mode.htm?token=1c24163ec4b86c3dcb50cce4d9b2725e>
+<https://edu.dianping.men/iv/verify_mode.htm?token=fb190a43fdf3d65b79ade1587c034ca8>
 
 主观评价：年付订阅，每月651G。
 
