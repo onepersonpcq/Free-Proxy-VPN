@@ -13,8 +13,27 @@
 主观评价：年付订阅，每月651G。
 
 ---
+### 一、爱翻机场(0/月19G)
 
-### 一、廉价机场
+官网地址:[点击进入](https://afun.la/register?code=sWkB0RvO)
+
+
+主观评价:2025年元旦开业的全专线机场，注册首月送19G套餐，目前有 电信联通移动三网BGP入口深港专线2G和独家上海电信入口沪日专线，可以免费体验下。
+
+过境线路：深圳三网（深港专线）、上海电信（沪日专线）
+
+
+测速与解锁情况:
+![爱翻 珠海 最大速度16线程](https://github.com/user-attachments/assets/f6f85b38-c1dc-4fba-b9bc-c6ff052164c7)
+![爱翻 标准流媒体](https://github.com/user-attachments/assets/5eddb9ab-2111-4381-87d9-a2e62a170d10)
+
+
+线路分析:
+![爱翻 拓朴](https://github.com/user-attachments/assets/ba841253-48bb-476c-ac1e-525cef69bba9)
+
+---
+
+### 二、廉价机场
 
 官网地址:[点击进入](https://lianjia.me/#/register?code=YGKMsx4B)
 
@@ -26,13 +45,13 @@
 ![廉价机场测速](https://github.com/user-attachments/assets/73bfb5d4-0305-4fb4-bac8-08ae0b89f6d9)
 
 
-### 二、速达机场
+### 三、速达机场
 
 官网地址:[点击进入](https://cke5ad.cp-mining.com/#/register?code=OpqA8l9d)
 
 主观评价：包含香港节点无线流量的免费公益套餐，缺点是部分地区可能无法稳定使用。
 
-### 三、NanoCloud
+### 四、NanoCloud
 
 官网地址:[点击进入](https://edu.tplinkcloud.me/auth/register?code=1PhiI0Pi)
 
@@ -42,7 +61,7 @@
 ![nano云测速](https://github.com/user-attachments/assets/10e965e8-de83-4c82-81e6-58f1c9700cf1)
 ![nano云解锁](https://github.com/user-attachments/assets/44f788ff-9fde-476e-9420-ab8ff33160f4)
 
-### 四、便宜机场
+### 五、便宜机场
 
 官网地址:[点击进入](https://xn--wtq35pfyd55o.co/#/register?code=8b4JglaE)
 
@@ -53,7 +72,7 @@
 2025年1月白嫖提前发布：  LJprXV8i   有效期为   2025/01/01 01:00 ~ 2025/01/31 23:00
 
 
-### 五、FreeCloud
+### 六、FreeCloud
 
 官网地址:[点击进入](https://asus.im/#/register?code=g1nM2tbK)
 
