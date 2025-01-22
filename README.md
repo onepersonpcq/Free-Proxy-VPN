@@ -89,33 +89,26 @@
 如果以上机场在速度、稳定性、节点无法满足您的要求，可以看看下面的付费机场。
 
 
-## 一、EFCloud(10/月200G)
-官网地址:[点击进入](https://inv.easyfastcloud.com/#/register?code=HwwBaKx7)
+## 一、飞兔云(9.9/月118G)
 
-新人8折优惠: new
+官网地址:[点击进入](https://xn--9kq10e0y7h.site/index.html?register=C0ZvbxgX)
 
-主观评价: 本人一直在用的机场，延迟、稳定性、性价比各方面都不错，测得最大带宽达到5000Mbps，速度更是格外优秀。
+机场特色:签到送流量
 
-过境线路：佛山电信（广港专线）、南京移动（中转）、广州移动（中转）
+主观评价: 大型机场，80+多个节点，整体质量非常不错，IEPL专线+中转线路，冷门节点多，稳定性很不错，性价比也很可以，一次性套餐的价格算是比较便宜的。
 
-具有竞争力的套餐：
-1️⃣ 200GB/月（约0.04元/GB）
-2️⃣ 不限时100GB（约0.2元/GB）
-
+过境线路：深圳移动（广港专线）、佛山移动（中转）
 
 套餐价格:
-<img width="1245" alt="image" src="https://github.com/user-attachments/assets/b8805778-2c93-4172-af39-87631a0a18bf">
+![Screenshot_2024-12-11_05-44-29](https://github.com/user-attachments/assets/eca8bd3a-7c28-41ff-a12b-bf6032e0a73d)
 
 
 测速与解锁情况:
-![photo_2024-11-22 18 04 37](https://github.com/user-attachments/assets/6e236423-b35a-4279-ac7e-0babcb29a4f2)
-
-
-![2024-12-04T18-28-39 778-ID-27d5482e](https://github.com/user-attachments/assets/57e69d3e-85f2-4503-b906-54361c9d4db3)
-
+![飞兔云_深圳电信_多线程](https://github.com/user-attachments/assets/081203b5-6abe-463e-b3f3-c16980e84eba)
+![飞兔云_流媒体测试](https://github.com/user-attachments/assets/0b04086a-e9e1-4de7-a48d-f24a2d9d7727)
 
 线路分析:
-![efc线路分析](https://github.com/user-attachments/assets/e23f62e2-c9e2-43a1-92d6-18e8b91df6b6)
+![飞兔云_拓扑测试](https://github.com/user-attachments/assets/3602fbe4-8432-44a8-a7d3-ca4cb6146ed5)
 
 ---
 
