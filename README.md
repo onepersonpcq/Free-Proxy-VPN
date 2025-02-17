@@ -67,6 +67,21 @@
 
 主观评价：主观评价：凭注册码，每月300G的流量套餐。
 ---
+
+
+使用VPN Gate
+VPN Gate 源 (主) 网站 URL
+官网地址: https://www.vpngate.net/
+
+vpngate.net 的镜像站点列表 (更新于 2025-02-17 12:05:25 UTC):
+
+http://164.70.86.55:53336/cn/ (Mirror location: Japan)
+http://222.255.11.117:54621/cn/ (Mirror location: Viet Nam)
+http://203.156.119.200:32809/cn/ (Mirror location: Thailand)
+http://131.147.142.132:56802/cn/ (Mirror location: Japan)
+http://213.142.151.65:59176/cn/ (Mirror location: Turkey)
+http://14.6.121.84:2632/cn/ (Mirror location: Korea Republic of)
+
 # 付费机场推荐
 
 如果以上机场在速度、稳定性、节点无法满足您的要求，可以看看下面的付费机场。
