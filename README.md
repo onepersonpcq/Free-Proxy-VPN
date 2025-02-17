@@ -1,8 +1,7 @@
 # 免费机场分享
 
-如果本项目对您有所帮助，请给我关注吧 [Star](https://github.com/Anime2375/Free-Proxy-VPN)，您的支持是我更新的动力！
+如果本项目对您有所帮助，请给我关注吧，您的支持是我更新的动力！
 
-![](https://komarev.com/ghpvc/?username=Free-Proxy-VPN)
 
 ---
 
@@ -13,25 +12,15 @@
 主观评价：年付订阅，每月651G。
 
 ---
-### 一、爱翻机场(0/月19G)
+### 一、赔钱机场(18.9/1000G不限时)
 
-官网地址:[点击进入](https://afun.la/register?code=sWkB0RvO)
-
-
-主观评价:2025年元旦开业的全专线机场，注册首月送19G套餐，目前有 电信联通移动三网BGP入口深港专线2G和独家上海电信入口沪日专线，可以免费体验下。
-
-过境线路：深圳三网（深港专线）、上海电信（沪日专线）
+官网地址:[点击进入](https://xn--mes358aby2apfg.com/#/register?code=bmiVr9Re)
 
 
-测速与解锁情况:
-![爱翻 珠海 最大速度16线程](https://github.com/user-attachments/assets/f6f85b38-c1dc-4fba-b9bc-c6ff052164c7)
-![爱翻 标准流媒体](https://github.com/user-attachments/assets/5eddb9ab-2111-4381-87d9-a2e62a170d10)
+主观评价: 便宜好用,每年节日都有活动优惠,可以买不限时流量
+![image](https://github.com/user-attachments/assets/a418deb6-5401-4934-8623-68e965b9d3ff)
 
 
-线路分析:
-![爱翻 拓朴](https://github.com/user-attachments/assets/ba841253-48bb-476c-ac1e-525cef69bba9)
-
----
 
 ### 二、廉价机场
 
@@ -51,17 +40,8 @@
 
 主观评价：包含香港节点无线流量的免费公益套餐，缺点是部分地区可能无法稳定使用。
 
-### 四、NanoCloud
 
-官网地址:[点击进入](https://edu.tplinkcloud.me/auth/register?code=1PhiI0Pi)
-
-主观评价：注册送首月50G流量套餐，节点很多，缺点是时间较短只有一个月。
-
-测速与解锁情况：
-![nano云测速](https://github.com/user-attachments/assets/10e965e8-de83-4c82-81e6-58f1c9700cf1)
-![nano云解锁](https://github.com/user-attachments/assets/44f788ff-9fde-476e-9420-ab8ff33160f4)
-
-### 五、便宜机场
+### 四、便宜机场
 
 官网地址:[点击进入](https://xn--wtq35pfyd55o.co/#/register?code=dFdvwl4x)
 
@@ -72,7 +52,7 @@
 2025年1月白嫖提前发布：  LJprXV8i   有效期为   2025/01/01 01:00 ~ 2025/01/31 23:00
 
 
-### 六、FreeCloud
+### 五、FreeCloud
 
 官网地址:[点击进入](https://freeflyb.hkbn.xyz/#/register?code=YmPEs7Jj)
 
@@ -82,7 +62,7 @@
 ![MiaoKo-592-FreeCloud-speed](https://github.com/user-attachments/assets/70ee3fba-0a5c-4941-ac4d-a2941e66c681)
 ![MiaoKo-Free白嫖套餐-test](https://github.com/user-attachments/assets/5d27301e-7326-49fd-9960-c47658921b69)
 
-### 七、EMO
+### 六、EMO
 官网地址:[点击进入](https://yyds.emovpn.top/#/register?code=qcCptXyO)
 
 主观评价：主观评价：凭注册码，每月300G的流量套餐。
