@@ -65,7 +65,7 @@
 ### 六、EMO
 官网地址:[点击进入](https://yyds.emovpn.top/#/register?code=qcCptXyO)
 
-主观评价：主观评价：凭注册码，每月300G的流量套餐。
+主观评价：凭注册码，每月300G的流量套餐。
 ---
 
 
